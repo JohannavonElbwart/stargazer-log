@@ -1,0 +1,30 @@
+[
+  {
+    "name": "octocat/Hello-World",
+    "url": "https://github.com/octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "language": "Markdown",
+    "starred_at": "2026-10-28"
+  },
+  {
+    "name": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "starred_at": "2026-10-21"
+  },
+  {
+    "name": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "starred_at": "2026-10-14"
+  },
+  {
+    "name": "python/cpython",
+    "url": "https://github.com/python/cpython",
+    "description": "The Python programming language",
+    "language": "Python",
+    "starred_at": "2026-10-02"
+  }
+]
